@@ -10,7 +10,7 @@
 
 * `pkg install git`
 
-* https://github.com/NIROB-909/NEW-RANDOM.git`
+* 'https://github.com/NIROB-909/NEW-RANDOM.git`
 
 * `cd NEW-RANDOM`
 
